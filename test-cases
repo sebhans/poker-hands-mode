@@ -1,0 +1,29 @@
+Black: 2H 3D 5S 9C KD  White: 2C 3H 4S 8C AH | White wins with high card: ace
+Black: 2H 3D 5S 9C KD  White: 2C 3H 4S 8C KH | Black wins with high card: 9
+Black: 2H 3D 5S 9C KD  White: 2D 3H 5C 9S KH | Tie on high-card
+Black: 3H 3D 5S 9C KD  White: 2D 3H 5C 9S KH | Black wins with pair of 3s
+Black: 3H 3D 5S 9C KD  White: 2D 5H 5C 9S KH | White wins with pair of 5s
+Black: 3H 3D 5S 9C KD  White: 2D 3H 3C 9S AH | White wins with pair with high card: ace
+Black: 3H 3D 5S 9C KD  White: 5D 3H 3C 9S KH | Tie on pair-with-high-card
+Black: 3H 3D 5S 5C KD  White: 5D 3H 3C 9S KH | Black wins with two pairs, 5s and 3s
+Black: 3H 3D 4S 5C KD  White: KD 3H 6C 6S KH | White wins with two pairs, kings and 6s
+Black: 3H 3D 4S 4C KD  White: 4D 4H 3C 3S QH | Black wins with two pairs with high card: king
+Black: 3H 3D 4S 4C KD  White: 4D 4H 3C 3S KH | Tie on two-pairs-with-high-card
+Black: 3H 3D 3S 4C KD  White: 4D 4H 3C 3S KH | Black wins with three 3s
+Black: 3H 3D 4S 4C KD  White: 4D 4H 4C 3S KH | White wins with three 4s
+Black: 2H 3D 4S 5C 6D  White: 4D 4H 4C 3S KH | Black wins with straight
+Black: KH JD 2S 8C AD  White: 2D 3H 4C 5S 6H | White wins with straight
+Black: KH QD JS TC AD  White: 2D 3H 4C 5S 6H | Black wins with straight with high card: ace
+Black: KH QH JH TH 2H  White: 2D 3D 4C 5S 6D | Black wins with flush of hearts
+Black: KH QH JH TH 2S  White: 2D 3D 4D 7D 6D | White wins with flush of diamonds
+Black: KH QH JH TH 2H  White: 2D 3D 4D 7D 6D | Black wins with flush of hearts with high card: king
+Black: KH QH JH TH 2H  White: KD QD JD TD 2D | Tie on flush-with-high-card
+Black: 2H 4S 4C 2D 4H  White: 2S 8S AS QS 3S | Black wins with full house, 4 over 2
+Black: KH KS JH JS JC  White: KD QD JD TD 2D | Black wins with full house, jack over king
+Black: KH KS JH TS JC  White: 8D 8C 8H 7D 7C | White wins with full house, 8 over 7
+Black: 3H 3D 3S 3C KD  White: 4D 4H 2C 2S KH | Black wins with four 3s
+Black: 3H 3D 3S 2C KD  White: 4D 4H 4C 4S KH | White wins with four 4s
+Black: 3H 3D 3S 3C KD  White: 4D 4H 4C 4S KH | White wins with four 4s
+Black: KH QH JH TH 9H  White: 2D 3D 4C 5S 6D | Black wins with straight flush of hearts
+Black: KH QH JH TH 9D  White: 2D 3D 4D 5D 6D | White wins with straight flush of diamonds
+Black: KH QH JH TH 9H  White: 2D 3D 4D 5D 6D | Black wins with straight flush of hearts with high card: king
